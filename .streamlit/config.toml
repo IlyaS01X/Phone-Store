@@ -1,0 +1,13 @@
+[theme]
+base = "dark"
+primaryColor = "#7C3AED"           # фиолетовый акцент
+backgroundColor = "#0E1117"        # почти чёрный фон
+secondaryBackgroundColor = "#1A1D29"
+textColor = "#FAFAFA"
+font = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
